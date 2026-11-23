@@ -1,5 +1,24 @@
-# :open_book: ***Ünitenin bir Analizi***
-## 1. ***:writing_hand: soru cevapları***
+# :open_book: ***Ünitenin Analizi***
+## 1. ***Kategori ve kelimeler***                       
+|Kategori       |Kelimeler|                             
+|:---           |:---     |                             
+|Selamlaşma     |Merhaba <br> Günaydın <br> Selam  <br> İyi günler <br> İyi akşamlar <br> İyi geceler |         
+|Hal hatır sorma|Nasılsın? <br> Nasılsınız? <br> Ne     haber? <br> Ne var ne yok?                    |       
+|Durum bildirme |İyiyim <br> İyilik <br> İyilik sağlık  <br> Eh işte, fena değil                       |    
+|Teşekkür etme  |Teşekkürler <br> Teşekkür ederim <br>  Sağ ol                                        |       
+|Vedalaşma      |Hoşça kal <br> Güle güle <br>          Görüşürüz <br> Sonra görüşürüz <br> Görüşmek üzere|     
+---                                                     
+## 2. ***İfade ve karşılık***                           
+|İfade        |Karşılık  |
+|:---         |:---      |
+|Hoşça kal    |Güle güle |     
+|Teşekkürler <br> Teşekkür ederim <br> Sağ ol|Rica  ederim                   |                  
+|Hoş geldin   |Hoş bulduk| 
+|Sonra görüşürüz <br> Görüşmek üzere|               Görüşürüz                |               
+|Memnun oldum |Ben de memnun  oldum |
+|Nasılsın? <br> Nasılsınız? <br> Ne haber? <br> Ne var  ne yok? | İyiyim <br> İyilik <br> İyilik sağlık <br> Eh işte, fena değil |                                      
+---
+## 3. ***:writing_hand: soru cevapları***
 1. **Aşağıdaki diyaloğu sıralayalım.**  
 **Ümit**: Merhaba! Benim adım Ümit, senin adın ne?    
 **Aslı**: Merhaba! Benim adım Aslı.    
